@@ -1,0 +1,25 @@
+{
+    "name": "experius/module-soapapiextend",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        },
+        {
+            "email": "lewis@experius.nl",
+            "name": "Lewis Voncken"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Experius\\SoapApiExtend\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
